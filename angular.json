@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "step-app"
+  "defaultProject": "step-app",
+  "cli": {
+    "analytics": "55776f69-8273-499d-a463-5c51c01e0c3c"
+  }
 }
